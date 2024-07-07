@@ -23,7 +23,8 @@ func main() {
 	var country = "India"
 	fmt.Println("I am from", country)
 
-	// no var style =: this is not allowed outside a function
+	// no var style := this is not allowed outside a function
+	// := walrus operator
 	numberOfBlocs := 25
 	fmt.Println("Number of blocks are", numberOfBlocs)
 
